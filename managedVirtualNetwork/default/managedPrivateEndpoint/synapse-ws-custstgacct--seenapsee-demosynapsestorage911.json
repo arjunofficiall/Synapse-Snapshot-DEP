@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--seenapsee-demosynapsestorage911",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/dcfef6e2-ae5a-4ebf-9eb8-8b0449bd8f50/resourceGroups/synapse-rg/providers/Microsoft.Storage/storageAccounts/demosynapsestorage911",
+		"groupId": "dfs"
+	}
+}
